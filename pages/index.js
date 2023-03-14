@@ -95,7 +95,7 @@ export default function Home() {
             </div>
             
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gradient-to-r from-violet-50 text- to-purple-50 dark:bg-violet-50 flex-1">
-              <a href="https://kshitijaghate.com/cosmetics"><Image src={web2}  /></a>
+              <a href="https://stingray-app-insha.ondigitalocean.app/"><Image src={web2}  /></a>
               <h3 className="text-lg font-medium pt-8 pb-2 ">
               High-end Cosmetics Website
               </h3>
@@ -110,7 +110,7 @@ export default function Home() {
               
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gradient-to-r from-violet-50 text- to-purple-50 dark:bg-violet-50 flex-1">
-              <a href="https://kshitijaghate.com/technology"><Image src={web3}  /></a>
+              <a href="https://tech.kshitijaghate.com/"><Image src={web3}  /></a>
               <h3 className="text-lg font-medium pt-8 pb-2 ">Modern Technology App</h3>
               {/* <p className="py-2">
                 Are you interested in feedback for your current project? I can
@@ -174,7 +174,7 @@ export default function Home() {
 
         <section className="py-10">
           <div>
-            <h3 className="text-3xl py-1 dark:text-white ">Gallary</h3>
+            <h3 className="text-3xl py-1 dark:text-white ">Gallery</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               Since the beginning of my journey as a freelance designer and
               developer, I've done remote work for
